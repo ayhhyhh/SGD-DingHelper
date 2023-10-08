@@ -1,3 +1,3 @@
 pandas
 bocfx
-dotenv
+python-dotenv
