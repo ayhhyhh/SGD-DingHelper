@@ -1,2 +1,3 @@
+pandas
 bocfx
 dotenv

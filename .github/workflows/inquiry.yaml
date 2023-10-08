@@ -22,4 +22,4 @@ jobs:
       env:
         DINGTALKTOKEN: ${{ secrets.DINGTALKTOKEN }}
       run: |
-        python Inquiry.py
+        python3 Inquiry.py
