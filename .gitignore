@@ -1,0 +1,4 @@
+.*
+_*
+test.py
+!.gitignore
