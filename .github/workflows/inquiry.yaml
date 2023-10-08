@@ -16,6 +16,7 @@ jobs:
         python-version: 3.7
     - name: Prepare module
       run: |
+        pip3 install --upgrade pip
         pip3 install -r requirements.txt
     - name: Run inquiry
       env:
