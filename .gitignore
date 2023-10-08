@@ -1,4 +1,5 @@
 .*
 _*
 test.py
+!.github
 !.gitignore
